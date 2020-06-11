@@ -64,7 +64,7 @@ const Index = ({ router }) => {
                                         <h2 className="text-shadow text-center h1">React</h2>
                                     </div>
                                     <div className="back text-center">
-                                        <Link href="/categories/react">
+                                        <Link href="/tags/react">
                                             <a>
                                                 <h3 className="h1">React Js</h3>
                                             </a>
@@ -87,7 +87,7 @@ const Index = ({ router }) => {
                                         <h2 className="text-shadow text-center h1">Node</h2>
                                     </div>
                                     <div className="back text-center">
-                                        <Link href="/categories/node">
+                                        <Link href="/tags/node.js">
                                             <a>
                                                 <h3 className="h1">Node Js</h3>
                                             </a>
@@ -110,7 +110,7 @@ const Index = ({ router }) => {
                                         <h2 className="text-shadow text-center h1">Next</h2>
                                     </div>
                                     <div className="back text-center">
-                                        <Link href="/categories/nextjs">
+                                        <Link href="/tags/nextjs">
                                             <a>
                                                 <h3 className="h1">Next Js</h3>
                                             </a>
