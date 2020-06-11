@@ -110,7 +110,7 @@ const Index = ({ router }) => {
                                         <h2 className="text-shadow text-center h1">Next</h2>
                                     </div>
                                     <div className="back text-center">
-                                        <Link href="/tags/nextjs">
+                                        <Link href="/tags/next.js">
                                             <a>
                                                 <h3 className="h1">Next Js</h3>
                                             </a>
