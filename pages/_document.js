@@ -29,6 +29,7 @@ class MyDocument extends Document {
           />
           {/*<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/react-quill/0.4.1/quill.snow.css"/>*/}
           <link rel="stylesheet" href="/static/css/styles.css" />
+          <link rel="shortcut icon" href="/static/images/favicon.ico" />
           <script async src="https://www.googletagmanager.com/gtag/js?id=UA-147955896-1"></script>
           <script dangerouslySetInnerHTML={this.setGoogleTags()} />
         </Head>
